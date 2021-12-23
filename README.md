@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fbig-data-developer-header-banner-vector-23242237&psig=AOvVaw1RO29fd_ROKKJHPICw2vkL&ust=1640341881870000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOCXju_b-fQCFQAAAAAdAAAAABAD" alt="cover" />
+<img width="100%" height = "250px" src="https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#query=software%20development%20banner&position=28&from_view=keyword" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
